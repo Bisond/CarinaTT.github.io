@@ -1,7 +1,7 @@
-title:            念茜的博客
+title:            iOS开发
 description:      "Going against the wind is more suitable for flying"
 logo:             
-disqus_shortname: nianxinet
+disqus_shortname: tobison
 # Assign a default image for your site's header and footer
 default_bg:       default_bg.jpg
 search:           true
@@ -23,17 +23,17 @@ url:       		    http://nianxi.net
 
 # Owner/author information
 owner:
-  name:           念茜
+  name:           Bison
   avatar:         avatar.png
-  email:          yiyaaixuexi@gmail.com
+  email:          
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    一个无忧无虑的单线程妞
+  description:    静态库般Man(ˇˍˇ）
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        CarinaTiantian
+  twitter:        lbjobvip
   facebook:       
   github:         
-  stackexchange:  http://stackoverflow.com/users/904698/carina
-  linkedin:       http://blog.csdn.net/yiyaaixuexi
+  stackexchange:  #http://stackoverflow.com/users/904698/carina
+  linkedin:       #http://blog.csdn.net/yiyaaixuexi
   instagram:      
   flickr:
   tumblr:
@@ -67,7 +67,7 @@ timezone:    PRC
 future:      true
 highlighter: pygments
 markdown:    kramdown
-paginate:    3
+paginate:    4
 paginate_path: "page:num"
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
