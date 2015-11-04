@@ -1,9 +1,9 @@
 title:            iOS开发
-description:      "Going against the wind is more suitable for flying"
-logo:             
+description:      "Don't be one of the majorities"
+logo:             omikron.png
 disqus_shortname: tobison
 # Assign a default image for your site's header and footer
-default_bg:       default_bg.jpg
+default_bg:       BG1.jpg
 search:           true
 share:            true
 # Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
